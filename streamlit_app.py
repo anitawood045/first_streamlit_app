@@ -1,6 +1,9 @@
 
 import streamlit
 streamlit.title('my parents dinner')
-streamlit.header('Roger logistics')
-streamlit.text('starting on jan 1 2024')
-streamlit.text('happy birthday roger')
+
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
